@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PetrenkoLab24/1.0.0": {
+        "runtime": {
+          "PetrenkoLab24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetrenkoLab24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\OOP\PetrenkoLab24\bin\Debug\net10.0-windows\PetrenkoLab24.exe
+C:\Users\user\Desktop\OOP\PetrenkoLab24\bin\Debug\net10.0-windows\PetrenkoLab24.deps.json
+C:\Users\user\Desktop\OOP\PetrenkoLab24\bin\Debug\net10.0-windows\PetrenkoLab24.runtimeconfig.json
+C:\Users\user\Desktop\OOP\PetrenkoLab24\bin\Debug\net10.0-windows\PetrenkoLab24.dll
+C:\Users\user\Desktop\OOP\PetrenkoLab24\bin\Debug\net10.0-windows\PetrenkoLab24.pdb
+C:\Users\user\Desktop\OOP\PetrenkoLab24\obj\Debug\net10.0-windows\PetrenkoLab24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OOP\PetrenkoLab24\obj\Debug\net10.0-windows\PetrenkoLab24.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OOP\PetrenkoLab24\obj\Debug\net10.0-windows\PetrenkoLab24.AssemblyInfo.cs
+C:\Users\user\Desktop\OOP\PetrenkoLab24\obj\Debug\net10.0-windows\PetrenkoLab24.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP\PetrenkoLab24\obj\Debug\net10.0-windows\PetrenkoLab24.dll
+C:\Users\user\Desktop\OOP\PetrenkoLab24\obj\Debug\net10.0-windows\refint\PetrenkoLab24.dll
+C:\Users\user\Desktop\OOP\PetrenkoLab24\obj\Debug\net10.0-windows\PetrenkoLab24.pdb
+C:\Users\user\Desktop\OOP\PetrenkoLab24\obj\Debug\net10.0-windows\PetrenkoLab24.genruntimeconfig.cache
+C:\Users\user\Desktop\OOP\PetrenkoLab24\obj\Debug\net10.0-windows\ref\PetrenkoLab24.dll
